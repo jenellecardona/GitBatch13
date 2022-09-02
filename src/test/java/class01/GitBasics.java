@@ -7,5 +7,7 @@ public class GitBasics {
         And prints out if it's a beautiful day or not.
          */
         System.out.println("today is not a beautiful day");
+        System.out.println("today is not a beautiful day");
+        System.out.println("today is not a beautiful day");
     }
 }
